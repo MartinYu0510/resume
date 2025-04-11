@@ -21,7 +21,13 @@ _Software engineer and journalist based in Hong Kong 🇭🇰_ <br>
   - **_Technologies used:_** Python, Html, CSS, React.Js
 <br><br>
 
-## 🏆 PRROJECT
+## 🌟 Activities
+- **Undergraduate Research Programme-Eureka (2024-2025)**
+  Project Title : Auto Fuzzing implemented with LLM Agents
+  Supervisor: [Prof. Chen](http://cs.hku.hk/index.php/people/academic-staff/chenho)
+
+
+## 🏆 Project
 
 - **Auto Fuzzing implemented with LLM Agents** 
 <br>
@@ -29,6 +35,7 @@ _Software engineer and journalist based in Hong Kong 🇭🇰_ <br>
 <br>
 - **Passwordless Authentication Web Application**
 <br>
+- **API For Hostel Reservation Web Application **
   
 ## 🛠️ Skills
 - Front-end and back-end web development
