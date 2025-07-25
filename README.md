@@ -21,6 +21,12 @@ _Software engineer and journalist based in Hong Kong 🇭🇰_ <br>
   - **_Technologies used:_** Python, Html, CSS, React.Js
 <br><br>
 
+**Summer Intern** MTR Corporation, Human Resource Transformation Department. _(June 2024 - Aug 2024)_ <br>
+  - Developed A.I. chatbot for Q&A
+  - Built extension app for current web-based application
+  - Conducted LLM fine-turning
+  - **_Technologies used:_** Python, JavaScript, LLM development, NodeJs
+
 ## 🌟 Activities
 - **Undergraduate Research Programme-Eureka (2024-2025)** <br>
   Project Title : Auto Fuzzing implemented with LLM Agents <br>
