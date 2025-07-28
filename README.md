@@ -36,7 +36,6 @@ _Software engineer and journalist based in Hong Kong 🇭🇰_ <br>
 
 
 ## 🏆 Project
-
 - **Auto Fuzzing implemented with LLM Agents** 
 <br>
 - **LLM-inference using Multi Threading for Acceleration**
