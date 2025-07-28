@@ -31,6 +31,8 @@ _Software engineer and journalist based in Hong Kong 🇭🇰_ <br>
 - **Undergraduate Research Programme-Eureka (2024-2025)** <br>
   Project Title : Auto Fuzzing implemented with LLM Agents <br>
   Supervisor: [Prof. Chen](http://cs.hku.hk/index.php/people/academic-staff/chenho)
+- **PolyU x NuttyShell Cybersecurity CTF 2025**
+  
 
 
 ## 🏆 Project
